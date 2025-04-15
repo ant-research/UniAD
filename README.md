@@ -1,0 +1,1 @@
+注意：CMDAD和TVAD的char feature都是直接提取特征，没用examplar方法

@@ -1,0 +1,5 @@
+numpy==1.26.4
+pandas==2.2.3
+tqdm==4.67.1
+fastcoref==2.1.6
+transformers==4.48.0
