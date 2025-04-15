@@ -16,7 +16,7 @@ Follow the following guide to set up the environment.
 1. Git clone repo
 
     ```
-    git clone ()
+    git clone https://github.com/ant-research/UniAD
     cd UniAD
     ```
 
