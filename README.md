@@ -149,6 +149,7 @@ Our implementation is based on
 - [openclip](https://github.com/mlfoundations/open_clip)
 - [AutoAD](https://github.com/TengdaHan/AutoAD)
 - [Video-LLaMA](https://github.com/DAMO-NLP-SG/Video-LLaMA)
+- [LLaMA](https://github.com/meta-llama/llama)
 
 Thanks for their remarkable contribution and released code!
 
