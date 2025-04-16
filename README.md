@@ -1,6 +1,6 @@
 # Contextual AD Narration with Interleaved Multimodal Sequence
 <a href="https://arxiv.org/abs/2403.12922"><img src="https://img.shields.io/badge/arXiv-2403.12922-b31b1b.svg"></a>
-<a href="https://huggingface.co/hlwang06/LeviTor/tree/main"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)"></a>
+<a href="https://huggingface.co/hlwang06/UniAD"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)"></a>
 
 [Hanlin Wang](https://scholar.google.com/citations?user=0uO4fzkAAAAJ&hl=zh-CN)<sup>1,3</sup>, [Zhan Tong](https://scholar.google.com/citations?user=6FsgWBMAAAAJ&hl=zh-CN)<sup>2</sup>, [Kecheng Zheng](https://zkcys001.github.io/)<sup>3</sup>, [Yujun Shen](https://shenyujun.github.io/)<sup>3</sup>, [Limin Wang](https://wanglimin.github.io/)<sup>1,4,†</sup><br>
 <sup>1</sup>State Key Laboratory for Novel Software Technology, Nanjing University<br> <sup>2</sup>ESAT, KU Leuven <sup>3</sup>Ant Group <sup>4</sup>Shanghai Artificial Intelligence Laboratory <sup> <br><sup>†</sup>corresponding author
