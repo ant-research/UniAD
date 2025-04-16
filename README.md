@@ -22,7 +22,7 @@ Follow the following guide to set up the environment.
 
 2. Download and unzip checkpoints
 
-   Download necessary files from [here]()
+   Download necessary files from [here](https://huggingface.co/hlwang06/UniAD)
 
    Download 'CLIP_L14_frames_features_5fps.h5' from [MAD](https://github.com/Soldelli/MAD)
 
