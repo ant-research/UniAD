@@ -1,6 +1,6 @@
 # Contextual AD Narration with Interleaved Multimodal Sequence
 <a href="https://arxiv.org/abs/2403.12922"><img src="https://img.shields.io/badge/arXiv-2403.12922-b31b1b.svg"></a>
-<a href="http://www.apache.org/licenses/LICENSE-2.0"><img src="https://img.shields.io/badge/License-Apache_2.0-blue.svg"></a>
+<a href="https://huggingface.co/hlwang06/LeviTor/tree/main"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)"></a>
 
 [Hanlin Wang](https://scholar.google.com/citations?user=0uO4fzkAAAAJ&hl=zh-CN)<sup>1,3</sup>, [Zhan Tong](https://scholar.google.com/citations?user=6FsgWBMAAAAJ&hl=zh-CN)<sup>2</sup>, [Kecheng Zheng](https://zkcys001.github.io/)<sup>3</sup>, [Yujun Shen](https://shenyujun.github.io/)<sup>3</sup>, [Limin Wang](https://wanglimin.github.io/)<sup>1,4,†</sup><br>
 <sup>1</sup>State Key Laboratory for Novel Software Technology, Nanjing University<br> <sup>2</sup>ESAT, KU Leuven <sup>3</sup>Ant Group <sup>4</sup>Shanghai Artificial Intelligence Laboratory <sup> <br><sup>†</sup>corresponding author
@@ -154,6 +154,6 @@ Our implementation is based on
 Thanks for their remarkable contribution and released code!
 
 ## Note
-Note: This repo is governed by the license of Apache 2.0 We strongly advise users not to knowingly generate or allow others to knowingly generate harmful content, including hate speech, violence, pornography, deception, etc. 
+Note: This repo is governed by the license of llama. We strongly advise users not to knowingly generate or allow others to knowingly generate harmful content, including hate speech, violence, pornography, deception, etc. 
 
-(注：本仓库受Apache 2.0的许可协议限制。我们强烈建议，用户不应传播及不应允许他人传播以下内容，包括但不限于仇恨言论、暴力、色情、欺诈相关的有害信息。)
+(注：本仓库受llama的许可协议限制。我们强烈建议，用户不应传播及不应允许他人传播以下内容，包括但不限于仇恨言论、暴力、色情、欺诈相关的有害信息。)
