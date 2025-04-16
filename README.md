@@ -73,7 +73,7 @@ CUDA_VISIBLE_DEVICES=0 python main.py --if_finutune_GPT 0 --mylogs 'output file 
 ```
 
 ### Note: 
-During the preparation for open-sourcing, we conducted ablation experiments on CMDAD and TVAD using the latest experimental settings. We found that the effects of the context modeling and character refinement module were minimal after introducing the VideoLLaMA model and the prediction results from AutoAD-Zero. For more specific details, please refer to our updated arXiv paper.
+During the preparation for open-sourcing, we conducted ablation experiments on CMDAD and TVAD using the latest experimental settings. We found that the effects of the context modeling and character refinement module were minimal after introducing the VideoLLaMA model and the character prediction results from AutoAD-Zero. For more specific details, please refer to our updated arXiv paper.
 
 ### Train on MAD
 Prepare training data of MAD from [MAD](https://github.com/Soldelli/MAD) and use character prediction results from [AutoAD](http://www.robots.ox.ac.uk/~htd/autoad/MAD_char_prob_dict_trainval_MV550_CBcharbank_cos_top10_cal_jul.pkl) to organize the data into the following format：
