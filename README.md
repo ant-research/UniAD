@@ -135,7 +135,7 @@ torchrun --nproc_per_nod 8 -m main --if_finutune_GPT 0 --accum-freq 4 --if_lora 
 ## Citation
 Don't forget to cite this source if it proves useful in your research!
 ```bibtex
-@article{wang2024levitor, 
+@article{wang2024uniad, 
 	title={Contextual AD Narration with Interleaved Multimodal Sequence}, 
 	author={Hanlin Wang and Zhan Tong and Kecheng Zheng and Yujun Shen and Limin Wang}, 
 	year={2025}, 
